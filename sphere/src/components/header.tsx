@@ -32,7 +32,7 @@ export default function Header() {
       </NavbarContent>
       <NavbarContent justify="end">
         <NavbarItem>
-          <Link href='#'>Contact us</Link>
+          <Link href='/contact'>Contact us</Link>
         </NavbarItem>
         <NavbarItem>
           <SwitchButton />
