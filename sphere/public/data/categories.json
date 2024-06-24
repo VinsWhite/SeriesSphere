@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Action",
+      "description": "High energy and intense action films and series"
+    },
+    {
+      "id": 2,
+      "name": "Drama",
+      "description": "Emotionally driven and dramatic films and series"
+    },
+    {
+      "id": 3,
+      "name": "Comedy",
+      "description": "Light-hearted and humorous films and series"
+    },
+    {
+      "id": 4,
+      "name": "Horror",
+      "description": "Scary and thrilling horror films and series"
+    },
+    {
+      "id": 5,
+      "name": "Science Fiction",
+      "description": "Futuristic and speculative science fiction films and series"
+    },
+    {
+      "id": 6,
+      "name": "Romance",
+      "description": "Love stories and romantic films and series"
+    },
+    {
+      "id": 7,
+      "name": "Documentary",
+      "description": "Informative and factual documentary films and series"
+    }
+  ]
+  
