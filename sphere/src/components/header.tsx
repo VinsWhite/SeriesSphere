@@ -10,7 +10,7 @@ import { TbAlignLeft } from "react-icons/tb";
 export default function Header() {
   return (
     <Navbar shouldHideOnScroll>
-      <NavbarContent className="hidden sm:flex gap-4" justify="center">
+      <NavbarContent className="hidden sm:flex gap-4 px-0" justify="center">
         <NavbarItem>
           <TbAlignLeft className='size-7' />
         </NavbarItem>
@@ -22,11 +22,6 @@ export default function Header() {
         <NavbarItem>
           <Link href="/latest">
             Latest News
-          </Link>
-        </NavbarItem>
-        <NavbarItem>
-          <Link color="foreground" href="/reviews">
-            Reviews
           </Link>
         </NavbarItem>
       </NavbarContent>
